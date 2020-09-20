@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://Nithishk5:<DRacarYS5>@cluster0.coarp.mongodb.net/<dbname>?retryWrites=true&w=majority",
+
+    "baseUrl": "http://localhost:5000"
+}
+
