@@ -1,18 +1,19 @@
+  
 const express = require('express');
 const connectDB = require('./config/db');
 
 const app = express();
 
-// Connect to database
+// Connecting to database
 
 connectDB();
 
-app.use(express.json({ extended: false}));
+app.use(express.json());
 
-// DEFINING ROUTES
+// Defining Routes
 
 app.use('/', require('./routes/index'));
-app.use('/api/url', require ('./routes/url'));
+app.use('/api/url', require('./routes/url'));
 
 const PORT = 5000;
 
