@@ -2,5 +2,5 @@ POST http://localhost:5000/api/url/shorten
 Content-Type: application/json
 
 {
-  "longUrl": "https://www.amazon.com/dp/B075YBBQMM/ref=sspa_dk_detail_5?psc=1&pd_rd_i=B075YBBQMM&pd_rd_w=xL6ty&pf_rd_p=8a8f3917-7900-4ce8-ad90-adf0d53c0985&pd_rd_wg=6zvlZ&pf_rd_r=FZZWP9DDN7AFE5EMGYJP&pd_rd_r=782dca1d-a254-11e9-bd85-01c75db0a092"
+  "longUrl": "https://www.amazon.com/Controller-Charger-Charging-Playstation4-Indicators/dp/B08384F2NL/ref=pd_sbs_23_6/134-8079519-5441646?_encoding=UTF8&pd_rd_i=B08384F2NL&pd_rd_r=f52ede2a-c828-4310-88cc-9b45902a7e22&pd_rd_w=780XU&pd_rd_wg=f3pOf&pf_rd_p=703f3758-d945-4136-8df6-a43d19d750d1&pf_rd_r=6NZPMCBSEB37YA4YENT9&psc=1&refRID=6NZPMCBSEB37YA4YENT9"
 }
